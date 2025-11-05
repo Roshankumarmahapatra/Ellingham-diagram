@@ -1,7 +1,7 @@
 # Ellingham-diagram
-MATLAB scripts for generating and analyzing Ellingham diagrams — visualizing the thermodynamic stability of oxides and reduction reactions.
+Python scripts for generating and analyzing Ellingham diagrams — visualizing the thermodynamic stability of oxides and reduction reactions.
 
-This repository contains MATLAB scripts and functions for creating and analyzing Ellingham diagrams, which are graphical representations of the temperature dependence of the stability of compounds — typically used in metallurgy and thermodynamics to study oxidation and reduction reactions.
+This repository contains Python scripts and functions for creating and analyzing Ellingham diagrams, which are graphical representations of the temperature dependence of the stability of compounds — typically used in metallurgy and thermodynamics to study oxidation and reduction reactions.
 
 🔍 Features
 
@@ -17,7 +17,7 @@ Annotated plots for better visualization and interpretation
 
 ⚙️ Requirements
 
-MATLAB (R2020a or later recommended)
+Python
 
 Basic understanding of thermodynamics and chemical equilibrium
 
